@@ -72,3 +72,4 @@ https://drive.google.com/drive/folders/1OftucpgKER95Pda1AxhCQae_c6cTDbmY?usp=sha
 часть 3: https://metabase.sky.pro/question/75136
 результаты в Excel: https://drive.google.com/drive/folders/1P9EQmg9Qn3dmSqsVVPmDlpJYWb7-X2eI?usp=sharing
    
+
