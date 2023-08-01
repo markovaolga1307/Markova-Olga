@@ -108,3 +108,8 @@ https://drive.google.com/drive/folders/1OftucpgKER95Pda1AxhCQae_c6cTDbmY?usp=sha
 - https://metabase.sky.pro/question/76938
 - https://metabase.sky.pro/question/76972
 - результаты в Excel https://drive.google.com/drive/folders/1b4b42Dgz8jDm96UAhBZF5xq2-GO3q_pw?usp=sharing
+
+КОНТАКТНАЯ ИНФОРМАЦИЯ
+
+- Email: sboevaolga@mail.ru
+- Личный сайт: https://vk.com/olgamarkova1307
