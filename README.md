@@ -42,7 +42,7 @@ https://drive.google.com/drive/folders/1OftucpgKER95Pda1AxhCQae_c6cTDbmY?usp=sha
 
 ссылка на код: https://docs.google.com/document/d/1Y-ncSDLjuueWmZCrZEcz5_g6wQixe6BG/edit?usp=sharing&ouid=105543503263826879770&rtpof=true&sd=true
 
-**ПРОЕКТ 5: Моделирование изменения балансов студентов**
+**ПРОЕКТ 5: Моделирование изменения балансов студентов онлайн-школы**
 
 Что нужно было сделать:
 1. смоделировать изменение балансов студентов (количество уроков, которое есть у каждого студента).
